@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/vikasnayak013/leetcode---solution/tree/master/0520-detect-capital) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/vikasnayak013/leetcode---solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Enumeration
 |  |
