@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/vikasnayak013/leetcode---solution/tree/master/0520-detect-capital) |
+| [2129-capitalize-the-title](https://github.com/vikasnayak013/leetcode---solution/tree/master/2129-capitalize-the-title) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/vikasnayak013/leetcode---solution/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## Enumeration
 |  |
